@@ -1,0 +1,18 @@
+{
+  "name": "moritalous-qiita-voice",
+  "description": "moritalous氏のQiita文体を再現するスキルを配布するマーケットプレイス",
+  "owner": {
+    "name": "moritalous"
+  },
+  "plugins": [
+    {
+      "name": "qiita-voice",
+      "source": "./plugins/qiita-voice",
+      "description": "moritalous氏（Qiita）の文体・構成・トーンを再現してQiita記事を執筆するスキル。396本の公開記事を分析して蒸留した文体ガイドと実例集を使用。",
+      "version": "1.0.0",
+      "author": {
+        "name": "moritalous"
+      }
+    }
+  ]
+}
